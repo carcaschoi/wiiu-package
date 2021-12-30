@@ -1,5 +1,5 @@
 # wiiu-package
-Wiiu aio package for hacking (supports haxchi and mocha)
+Wiiu aio package for hacking (aroma)
 
 * include chinese system wad
 # Credits
