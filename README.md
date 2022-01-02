@@ -1,5 +1,5 @@
 # wiiu-package
-Wiiu aio package for hacking (aroma)
+Wiiu aio package for hacking (Tiramisu)
 
 * include chinese system wad
 # Credits
